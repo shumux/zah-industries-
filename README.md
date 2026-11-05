@@ -40,3 +40,7 @@ Edit the text directly in `index.html`. Replace the sample email `contact@zahind
 - The ZahDigital project tile is a placeholder until real project images are available.
 - The sample marketplace screenshot and YouTube channel screenshot are used as supplied. Replace them whenever you want.
 - Google Fonts are loaded online; system fonts will be used if the visitor is offline.
+
+
+## Updated visual design
+The site now uses a premium dark navy/black technology aesthetic, silver typography, a compact header logo, neon-accent division buttons and smooth hover transitions. The dark-background logo is `assets/logo-dark.png`.
